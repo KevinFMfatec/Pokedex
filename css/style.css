@@ -31,17 +31,17 @@ main {
 
 .pokemon_image {
     position: absolute;
-    bottom: 55%;
+    bottom: 52%;
     left: 50%;
     transform: translate(-63%, 20%);
-    height: 18%;
+    height: 25%;
 }
 
 .pokemon_data {
     position: absolute;
     font-weight: 600;
     color: #aaa;
-    top: 53.5%;
+    top: 54%;
     right: 27%;
     font-size: clamp(8px, 5vw, 25px);
 }
